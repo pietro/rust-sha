@@ -5,6 +5,7 @@ version = "0.0.1"
 authors = ["Pietro Monteiro <pietro@riseup.net>"]
 
 [lib]
+
 name = "sha"
 path = "src/sha/lib.rs"
 
